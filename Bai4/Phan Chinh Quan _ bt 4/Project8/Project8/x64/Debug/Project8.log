@@ -1,0 +1,23 @@
+﻿Build started 3/2/2016 7:41:27 PM.
+     1>Project "C:\Users\Amazing\Desktop\Bai4\Phan Chinh Quan _ bt 4\Project8\Project8\Project8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\VC2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Hinh2D.cpp
+         Hinh2D.cpp
+     1>c:\users\amazing\desktop\bai4\phan chinh quan _ bt 4\project8\project8\Diem3D.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\amazing\desktop\bai4\phan chinh quan _ bt 4\project8\project8\Hinhhoc.h(8): warning C4584: 'Hinhhoc' : base-class 'Diem2D' is already a base-class of 'Diem3D'
+                 c:\users\amazing\desktop\bai4\phan chinh quan _ bt 4\project8\project8\Diem2D.h(5) : see declaration of 'Diem2D'
+                 c:\users\amazing\desktop\bai4\phan chinh quan _ bt 4\project8\project8\Diem3D.h(5) : see declaration of 'Diem3D'
+       Link:
+         G:\VC2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Amazing\Desktop\Bai4\Phan Chinh Quan _ bt 4\Project8\x64\Debug\Project8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Amazing\Desktop\Bai4\Phan Chinh Quan _ bt 4\Project8\x64\Debug\Project8.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Amazing\Desktop\Bai4\Phan Chinh Quan _ bt 4\Project8\x64\Debug\Project8.lib" /MACHINE:X64 x64\Debug\Diem.obj
+         x64\Debug\Diem2D.obj
+         x64\Debug\Diem3D.obj
+         x64\Debug\Hinh2D.obj
+         x64\Debug\Hinh3D.obj
+         x64\Debug\Hinhhoc.obj
+         x64\Debug\Source.obj
+         Project8.vcxproj -> C:\Users\Amazing\Desktop\Bai4\Phan Chinh Quan _ bt 4\Project8\x64\Debug\Project8.exe
+     1>Done Building Project "C:\Users\Amazing\Desktop\Bai4\Phan Chinh Quan _ bt 4\Project8\Project8\Project8.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86

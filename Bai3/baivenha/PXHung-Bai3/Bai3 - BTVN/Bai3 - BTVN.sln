@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai3", "Bai3\Bai3.vcxproj", "{093A9D7C-8D58-4E5E-A530-CD16460E7D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093A9D7C-8D58-4E5E-A530-CD16460E7D68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{093A9D7C-8D58-4E5E-A530-CD16460E7D68}.Debug|Win32.Build.0 = Debug|Win32
+		{093A9D7C-8D58-4E5E-A530-CD16460E7D68}.Release|Win32.ActiveCfg = Release|Win32
+		{093A9D7C-8D58-4E5E-A530-CD16460E7D68}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
